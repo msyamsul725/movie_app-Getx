@@ -1,16 +1,17 @@
 # pobio
 
-A new Flutter project.
+Pobio adalah Aplikasi pemutar video yang di consume dari api https://www.themoviedb.org/documentation/api.
 
-## Getting Started
+cara install cukup dengan clone dari respotory github/msyamsul725
 
-This project is a starting point for a Flutter application.
+fitur yang berjalan 
+1. splash screen
+2. integrasi Api
+3. integrasi firebase
+4. CRUD firestore
+5. Top Rated Movies
+6. Now Showing Movies
+7. UpComing Movie
+8. Trending Movie
+9. Add List Movie
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
