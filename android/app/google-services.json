@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "367520072824",
+    "project_id": "carwash-896f7",
+    "storage_bucket": "carwash-896f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367520072824:android:cc1596902aebf89e51d98d",
+        "android_client_info": {
+          "package_name": "com.example.pobio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367520072824-h3p0n5di46v3atrcst3ca2emadoas7ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pobio",
+            "certificate_hash": "d7a9f8d2713060681a24796aa9d8669c38fc6d89"
+          }
+        },
+        {
+          "client_id": "367520072824-bvfqb20lu847i3bjdq96ogno8fst4l8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyWfB3lHaob6yqK7CQIYybfbKkaXPbcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367520072824-bvfqb20lu847i3bjdq96ogno8fst4l8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367520072824-imb9mbcul2g3t0asm8n5gag9vq8g439t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blankFireSetstate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

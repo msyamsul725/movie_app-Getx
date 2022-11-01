@@ -1,0 +1,13 @@
+{
+    "modules": [
+        "splash",
+        "welcome",
+        "login",
+        "mainNavigation",
+        "dashboard",
+        "profil",
+        "movie detail",
+        "search movie",
+        "list movie"
+    ]
+}
