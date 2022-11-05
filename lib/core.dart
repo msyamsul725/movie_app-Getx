@@ -31,6 +31,8 @@ export 'package:fhe_template/module/mainNavigation/view/mainNavigation_view.dart
 export 'package:fhe_template/module/movie detail/bindings/detail_movie_binding.dart';
 export 'package:fhe_template/module/movie detail/controller/movie detail_controller.dart';
 export 'package:fhe_template/module/movie detail/view/movie detail_view.dart';
+export 'package:fhe_template/module/nyoba/controller/nyoba_controller.dart';
+export 'package:fhe_template/module/nyoba/view/nyoba_view.dart';
 export 'package:fhe_template/module/profil/controller/profil_controller.dart';
 export 'package:fhe_template/module/profil/view/profil_view.dart';
 export 'package:fhe_template/module/search movie/controller/search movie_controller.dart';

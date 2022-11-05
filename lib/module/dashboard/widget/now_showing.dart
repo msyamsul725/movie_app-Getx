@@ -1,10 +1,7 @@
 import 'package:fancy_shimmer_image/fancy_shimmer_image.dart';
+import 'package:fhe_template/core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import '../../../model/trending.dart';
-import '../../../routes/app_pages.dart';
-import '../../../service/now_playing_services,.dart';
 
 class NowShowingMovieA extends StatefulWidget {
   const NowShowingMovieA({
@@ -43,10 +40,7 @@ class _NowShowingMovieAState extends State<NowShowingMovieA> {
           var item = nowPlayingMovies[index];
           return InkWell(
             onTap: () {
-              Get.toNamed(
-                Routes.DETAIL_MOVIE,
-                arguments: item.id,
-              );
+              Get.to(NyobaView(items: item));
             },
             child: Container(
               width: 160,
