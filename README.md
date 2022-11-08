@@ -40,7 +40,7 @@ flutter pub get --verbose
 
 
 ### Screenshot
-![alt text](https://github.com/msyamsul725/aplikasi-absen/blob/main/assets/image/sc_fitur.jpg)
+![alt text](https://github.com/msyamsul725/movie_app-Getx/blob/main/assets/sc_fitur.jpg)
 
 <br/>
 
